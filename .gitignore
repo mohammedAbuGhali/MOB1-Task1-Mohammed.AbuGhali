@@ -1,0 +1,22 @@
+﻿@'
+# Gradle downloaded distributions and caches
+**/gradle-*-bin/
+**/gradle-*-bin.zip
+**/.gradle/
+
+# Build outputs
+**/build/
+**/out/
+
+# Local configuration
+**/local.properties
+
+# IDE files
+.idea/
+**/.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+'@ | Set-Content -Encoding utf8 .gitignore

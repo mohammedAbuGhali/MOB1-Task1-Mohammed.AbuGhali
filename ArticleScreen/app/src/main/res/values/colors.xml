@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ألوان الوضع النهاري (Light Mode) - خلفية رمادية زرقاء هادئة وليست بيضاء ناصعة -->
+    <color name="title_color">#0F172A</color>
+    <color name="description_color">#334155</color>
+    <color name="bottom_container_bg">#EDF2F7</color>
+</resources>

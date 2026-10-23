@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ألوان الوضع المظلم (Dark Mode) - خلفية كحلية داكنة فخمة ومريحة للعين -->
+    <color name="title_color">#93C5FD</color>
+    <color name="description_color">#E2E8F0</color>
+    <color name="bottom_container_bg">#0F172A</color>
+</resources>

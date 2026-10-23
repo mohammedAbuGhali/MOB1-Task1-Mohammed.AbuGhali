@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light Theme Colors for Quadrants -->
+    <color name="q1_bg">#EADDCD</color>
+    <color name="q1_title">#B83131</color>
+    <color name="q1_desc">#2D3D94</color>
+
+    <color name="q2_bg">#F3E8E2</color>
+    <color name="q2_title">#122173</color>
+    <color name="q2_desc">#A7B426</color>
+
+    <color name="q3_bg">#F3E8E2</color>
+    <color name="q3_title">#1B7B8A</color>
+    <color name="q3_desc">#972B2B</color>
+
+    <color name="q4_bg">#EADDCD</color>
+    <color name="q4_title">#2E1C1A</color>
+    <color name="q4_desc">#51279B</color>
+</resources>

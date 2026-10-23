@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors for Quadrants -->
+    <color name="q1_bg">#2C221E</color>
+    <color name="q1_title">#FF8A8A</color>
+    <color name="q1_desc">#B0C4DE</color>
+
+    <color name="q2_bg">#1E222A</color>
+    <color name="q2_title">#9FA8DA</color>
+    <color name="q2_desc">#D4E157</color>
+
+    <color name="q3_bg">#1E2828</color>
+    <color name="q3_title">#80DEEA</color>
+    <color name="q3_desc">#EF9A9A</color>
+
+    <color name="q4_bg">#2A202A</color>
+    <color name="q4_title">#E1BEE7</color>
+    <color name="q4_desc">#D1C4E9</color>
+</resources>

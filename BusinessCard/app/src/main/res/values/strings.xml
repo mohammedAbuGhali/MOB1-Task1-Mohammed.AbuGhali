@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="android">android</string>
+    <string name="mohammed_abughali">Mohammed AbuGhali</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="phone">Phone</string>
+    <string name="_972_598167663">+972 598167663</string>
+    <string name="social">Social</string>
+    <string name="mohammedabughali">\@MohammedAbuGhali</string>
+    <string name="email">Email</string>
+    <string name="m_i_abughali_gmail_com">m.i.abughali@gmail.com</string>
+</resources>

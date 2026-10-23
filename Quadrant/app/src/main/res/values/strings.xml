@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadrant</string>
+    <string name="cybersecurity_engineers">Cybersecurity Engineers</string>
+    <string name="programmers_create_software_and_technology_that_make_life_easier_and_more_connected">Programmers create software and technology that make life easier and more connected.</string>
+    <string name="devlopers_around_the_world">Devlopers Around The World</string>
+    <string name="cybersecurity_engineers_protect_computer_systems_and_networks_from_cyber_threats_they_help_keep_data_safe_by_preventing_attacks_and_securing_digital_information">Cybersecurity engineers protect computer systems and networks from cyber threats. They help keep data safe by preventing attacks and securing digital information.</string>
+    <string name="software_engineers">Software Engineers</string>
+    <string name="software_engineers_design_develop_and_maintain_software_applications_they_use_programming_skills_to_create_efficient_solutions_that_help_people_and_businesses_solve_problems">Software engineers design, develop, and maintain software applications. They use programming skills to create efficient solutions that help people and businesses solve problems.</string>
+    <string name="web_developers">Web Developers</string>
+    <string name="web_developers_create_and_maintain_websites_to_ensure_they_are_functional_user_friendly_and_visually_appealing_they_use_programming_languages_to_build_the_modern_web">Web developers create and maintain websites to ensure they are functional, user-friendly, and visually appealing. They use programming languages to build the modern web.</string>
+</resources>
